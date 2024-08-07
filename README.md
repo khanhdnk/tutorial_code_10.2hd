@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+go to this url: "http://localhost:5173/"
